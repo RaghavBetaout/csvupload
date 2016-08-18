@@ -1,0 +1,6 @@
+orderId,customer_id,email,productId,productTotalSellingPrice,productQuantity,createdTime,totalShippingPrice,totalTaxes,currency,promocode,totalDiscount,Revenue
+github___order_1,github___customer_id_1,github___em@y0v.in,"productId_1, productId_2, productId_3",200,"1,1,1",1471478400,10,10,INR,promocode_100,10,200
+github___order_2,github___customer_id_2,github___em1@y0v.in,"productId_1, productId_2, productId_3",200,"1,1,1",1471478400,10,10,INR,promocode_100,10,200
+github___order_3,github___customer_id_3,github___em2@y0v.in,"productId_1, productId_2, productId_3",200,"1,1,1",1471478400,10,10,INR,promocode_100,10,200
+github___order_4,github___customer_id_4,github___em4@y0v.in,"productId_1, productId_2, productId_3",200,"1,1,1",1471478400,10,10,INR,promocode_100,10,200
+github___order_5,github___customer_id_5,github___em5@y0v.in,"productId_1, productId_2, productId_3",200,"1,1,1",1471478400,10,10,INR,promocode_100,10,200

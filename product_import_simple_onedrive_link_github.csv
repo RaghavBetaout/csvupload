@@ -1,0 +1,6 @@
+productId,productTitle,sku,price,currency,productPictureUrl,specialPrice,pageUrl,categoryIds,brandName
+github__productId_1,github___productTitle_1,github___sku_1,100,INR,http://static4.shop.indiatimes.com/images/products/additional/original/B4428800_View_7/mobiles/samsung/samsung-galaxy-a7-gold-.jpg,specialPrice,abc.com,1,onedrive_brandName_1
+github___productId_2,github___productTitle_2,github___sku_2,100,INR,http://images.philips.com/is/image/PhilipsConsumer/SHL3000BL_00-IMS-en_IN?$jpglarge$&wid=1250,specialPrice,abc.com,2,onedrive_brandName_2
+github___productId_3,github___productTitle_3,github___sku_3,100,INR,http://static4.shop.indiatimes.com/images/products/additional/original/B4428800_View_7/mobiles/samsung/samsung-galaxy-a7-gold-.jpg,specialPrice,abc.com,3,onedrive_brandName_3
+github___productId_4,github___productTitle_4,github___sku_4,100,INR,http://images.philips.com/is/image/PhilipsConsumer/SHL3000BL_00-IMS-en_IN?$jpglarge$&wid=1251,specialPrice,abc.com,4,onedrive_brandName_4
+github___productId_5,github___productTitle_5,github___sku_5,100,INR,http://static4.shop.indiatimes.com/images/products/additional/original/B4428800_View_7/mobiles/samsung/samsung-galaxy-a7-gold-.jpg,specialPrice,abc.com,5,onedrive_brandName_5
